@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="desk_inst">\n\nHi Young Man! \n\nLet\'s see how talented you are in math...\n\n\n\n <font fgcolor="#ffff0000"><b>GOOD LUCK</b></font></string>
+</resources>
