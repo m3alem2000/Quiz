@@ -1,15 +1,12 @@
 # Quiz
 
-Simple QUIZ application to demonstrate some andoid features
+Math Quiz Application for 5th Graders to demonstrate some android features.
   - Timer
-  - Splash Screen
-  - Login Form
   - Action Menu
   - Progress Dialog
   - Pass Result to next Activity
-  - POJO for Data model class
   - Usage of ArrayList
-  - Text Blink - Drawable 
+  - Text Blink
   - Layout designs
   - ActionBar options
 # Quiz
