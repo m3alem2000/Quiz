@@ -9,4 +9,3 @@ Math Quiz Application for 5th Graders to demonstrate some android features.
   - Text Blink
   - Layout designs
   - ActionBar options
-# Quiz
