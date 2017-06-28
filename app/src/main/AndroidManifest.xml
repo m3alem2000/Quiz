@@ -14,17 +14,13 @@
             android:label="Ongoing Quiz">
         </activity>
         <activity
-            android:name="com.test.fifthgrademath.SplashScreenActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize">
+            android:name="com.test.fifthgrademath.QuizDeskBoardActivity"
+            android:label="Quiz 5th Grade">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
-        </activity>
-        <activity
-            android:name="com.test.fifthgrademath.QuizDeskBoardActivity"
-            android:label="Quiz 5th Grade">
         </activity>
         <activity android:name="com.test.fifthgrademath.QuizResultActivity"
                   android:label="Quiz Result">

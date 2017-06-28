@@ -11,7 +11,6 @@ public class QuizDeskBoardActivity extends AppCompatActivity
 {
 
     Button btnStart;
-    Button btnInstruction;
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
